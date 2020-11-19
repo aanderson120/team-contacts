@@ -1,0 +1,7 @@
+.btn-outline-secondary{
+    border: 1px solid rgb(34, 41, 7);
+}
+.searchbox button:hover {
+    background-color: rgb(34, 41, 7);
+    color:white;
+}

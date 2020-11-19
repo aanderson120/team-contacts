@@ -7,8 +7,8 @@ const DataTable = () => {
     const context = useContext(DataAreaContext);
     return (
         <div className="dataTable mt-5">
-            <table id = "table" className="table table-striped table-hover table-condensed">
-            <thead>
+            <table id = "table" className="table">
+            <thead className="thead-dark">
                 <tr>
                     { context.developerState.headings.map(({ name, width }) => {
                         return (

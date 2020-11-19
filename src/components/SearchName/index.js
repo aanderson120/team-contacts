@@ -11,11 +11,11 @@ const SearchName = () => {
                 <input
                     className="form-control mr-sm-2"
                     type="search"
-                    placeholder="Search"
+                    placeholder="Search by name"
                     aria-label="Search"
                     onChange={e => context.handleSearchChange(e)}
                 />
-                <button className="btn my-2 my-sm-0" type="submit">
+                <button className="btn btn-outline-secondary" type="submit">
                     Search
                  </button>
             </form>
