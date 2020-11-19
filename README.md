@@ -5,7 +5,7 @@
   A Database that allows you to search through your team and view their contact information.
 
   ## Deployed Site
-  [Team Database](https://stacks-on-deck34.herokuapp.com/)
+  [Team Database](https://team-directory153.herokuapp.com/)
   ![walkthrough](./public/images/walkthrough.png)
 
 
