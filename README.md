@@ -5,7 +5,7 @@
   A Database that allows you to search through your team and view their contact information.
 
   ## Deployed Site
-  [Team Database](https://team-directory153.herokuapp.com/)
+  [Team Database](https://evening-sierra-18713.herokuapp.com/)
   ![walkthrough](./public/images/walkthrough.png)
 
 
@@ -18,7 +18,7 @@
 | [License Information](#license-information) |
     
   ## Installation
-  Application is deployed through heroku otherwise the packages required to run this program are: react, axios, boostrap.
+  Packages required to run this program are: react, axios, boostrap.
   
   ## Use
   Use react to search through a database that allows the user to view their team directory and have access to contact information as well as sort their employees by name.
